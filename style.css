@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0''
+}
+footer {
+    padding: 25px;
+    background-color: #C1C1B8;
+}
+img.brand-image {
+    vertical-align: middle;
+}
+.contact-details {
+    background-color: black;
+    color: white;
+    padding: 5px 0;
+}
+.nav-buttons {
+    vertical-align: middle;
+    padding: 15px 10px;
+}
+.main-navigation {
+    border-radius: 0;
+    margin-bottom: 0;
+}
+img.banner-image {
+    padding: 0;
+}
+.content-heading {
+    padding: 20px 0;
+}
+.you-are-here-table {
+    background-color: #ececec;
+    padding: 0;
+}
+.you-are-here-table-heading {
+    margin: 0;
+    background-color: grey;
+    color: white;
+    font-size: 2.5em;
+}
+.you-are-here-table-col {
+    padding: 15px;
+}
+.you-are-here-table-col.col1 {
+    border-right: 2px solid white;
+}
+.scale-storage-container {
+    padding: 0 10px;
+}
+.scale-storage-item.scale-storage {
+    background-color: #f77b55;
+}
+.scale-storage-item.develop {
+    background-color: #feca5c;
+}
+.scale-storage-item.cutting-edge {
+    background-color: #92deeb;
+}
+.scale-storage-item>div {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 15px;
+}
+.scale-storage-item>div.expand {
+    vertical-align: top;
+}
+.scale-storage-image {
+    width: 15%;
+}
+.scale-storage-image.develop {
+    background-color: #fedc7a;
+}
+.scale-storage-image.scale-storage {
+    background-color: #f6906f;
+}
+.scale-storage-image.cutting-edge {
+    background-color: #b1e2f1;
+}
+.scale-storage-image>img {
+    width: 100%;
+}
+.scale-storage-content {
+    width: 75%;
+    padding: 0 10px;
+    color: white;
+    font-size: 1.5em;
+    margin: 0 0 0 -0.8%;
+}
+.drop-icon-image {
+    width: 8%;
+}
