@@ -3,8 +3,9 @@ body {
     padding: 0''
 }
 footer {
-    padding: 25px;
+    padding: 15px;
     background-color: #C1C1B8;
+    font-size: .8em;
 }
 img.brand-image {
     vertical-align: middle;
@@ -88,4 +89,7 @@ img.banner-image {
 }
 .drop-icon-image {
     width: 8%;
+}
+.footer-blocks {
+    padding: 10px 0;
 }
