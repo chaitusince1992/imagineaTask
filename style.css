@@ -1,10 +1,12 @@
 body {
     margin: 0;
-    padding: 0''
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    color: #606060;
 }
 footer {
     padding: 15px;
-    background-color: #C1C1B8;
+    background-color: #f7f7f7;
     font-size: .8em;
 }
 img.brand-image {
@@ -35,7 +37,7 @@ img.banner-image {
 }
 .you-are-here-table-heading {
     margin: 0;
-    background-color: grey;
+    background-color: #475059;
     color: white;
     font-size: 2.5em;
 }
@@ -84,7 +86,7 @@ img.banner-image {
     width: 75%;
     padding: 0 10px;
     color: white;
-    font-size: 1.5em;
+    font-size: 1.8em;
     margin: 0 0 0 -0.8%;
 }
 .drop-icon-image {
@@ -92,4 +94,35 @@ img.banner-image {
 }
 .footer-blocks {
     padding: 10px 0;
+}
+.banner-container {
+    position: relative;
+}
+.banner-text {
+    position: absolute;
+    top: 22%;
+    font-size: 2.2em;
+    color: white;
+}
+.email-us-heading {
+    background-color: grey;
+    color: white;
+    margin-top: 15%;
+}
+.contact-form {
+    background-color: #EAEAEA;
+    height: 150px;
+    padding: 0;
+    overflow: hidden;
+    margin-bottom: 25px;
+}
+.world-map {
+    background: #F7F7F7;
+}
+.world-map-container {
+    padding: 10px;
+}
+.world-map-container>img {
+    width: 100%;
+    box-shadow: -2px -2px 30px #eaeaea;
 }
