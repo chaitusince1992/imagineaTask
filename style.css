@@ -16,6 +16,7 @@ img.brand-image {
     background-color: black;
     color: white;
     padding: 5px 0;
+    font-size: .8em;
 }
 .nav-buttons {
     vertical-align: middle;
@@ -99,10 +100,12 @@ img.banner-image {
     position: relative;
 }
 .banner-text {
-    position: absolute;
-    top: 22%;
+    /*    position: absolute;*/
+    padding: 100px 0;
     font-size: 2.2em;
     color: white;
+    background-image: url('img/banner.png');
+    background-position: bottom center;
 }
 .email-us-heading {
     background-color: grey;
@@ -111,10 +114,12 @@ img.banner-image {
 }
 .contact-form {
     background-color: #EAEAEA;
-    height: 150px;
     padding: 0;
     overflow: hidden;
     margin-bottom: 25px;
+}
+.contact-form>div {
+    height: 150px;
 }
 .world-map {
     background: #F7F7F7;
